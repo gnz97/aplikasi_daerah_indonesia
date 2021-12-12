@@ -63,7 +63,7 @@
             success: function (data) {
                 // console.log(data);
                 html = '';
-                html +='<div class="row row-cols-1 row-cols-md-3">';
+                html +='<div class="row row-cols-1 row-cols-md-4">';
                 $.each(data.data, function(index, element) { 
                     // console.log(element.name);
                     html += '<div class="col mb-4">'
