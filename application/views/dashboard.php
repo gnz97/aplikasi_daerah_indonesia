@@ -14,7 +14,7 @@
                 background-image: url("<?=base_url('assets/img/bg.png')?>");
                 background-size: cover;
                 background-repeat: no-repeat;
-            background-position: center;
+                background-position: center;
                 background-size: 600px 200px;
                 /* background-attachment: fixed; */
                 height: 50vh;
@@ -23,7 +23,7 @@
     </head>
     <body>
     <div class="jumbotron">
-        <h1 class="display-4 text-center ">Data Daerah Indonesia</h1>
+        <h1 class="display-4 text-center ">Data Provinsi & Kabupaten Indonesia</h1>
         
         
     </div>
